@@ -1,0 +1,5 @@
+C:\Users\artem\source\repos\HomeWork2\NumbersValue\bin\Debug\NumbersValue.exe.config
+C:\Users\artem\source\repos\HomeWork2\NumbersValue\bin\Debug\NumbersValue.exe
+C:\Users\artem\source\repos\HomeWork2\NumbersValue\bin\Debug\NumbersValue.pdb
+C:\Users\artem\source\repos\HomeWork2\NumbersValue\obj\Debug\NumbersValue.exe
+C:\Users\artem\source\repos\HomeWork2\NumbersValue\obj\Debug\NumbersValue.pdb

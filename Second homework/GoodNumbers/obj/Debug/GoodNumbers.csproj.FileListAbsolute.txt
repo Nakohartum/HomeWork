@@ -1,0 +1,6 @@
+C:\Users\artem\source\repos\HomeWork2\GoodNumbers\bin\Debug\GoodNumbers.exe.config
+C:\Users\artem\source\repos\HomeWork2\GoodNumbers\bin\Debug\GoodNumbers.exe
+C:\Users\artem\source\repos\HomeWork2\GoodNumbers\bin\Debug\GoodNumbers.pdb
+C:\Users\artem\source\repos\HomeWork2\GoodNumbers\obj\Debug\GoodNumbers.csprojAssemblyReference.cache
+C:\Users\artem\source\repos\HomeWork2\GoodNumbers\obj\Debug\GoodNumbers.exe
+C:\Users\artem\source\repos\HomeWork2\GoodNumbers\obj\Debug\GoodNumbers.pdb

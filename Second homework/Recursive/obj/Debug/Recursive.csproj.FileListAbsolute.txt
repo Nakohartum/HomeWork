@@ -1,0 +1,5 @@
+C:\Users\artem\source\repos\HomeWork2\Recursive\bin\Debug\Recursive.exe.config
+C:\Users\artem\source\repos\HomeWork2\Recursive\bin\Debug\Recursive.exe
+C:\Users\artem\source\repos\HomeWork2\Recursive\bin\Debug\Recursive.pdb
+C:\Users\artem\source\repos\HomeWork2\Recursive\obj\Debug\Recursive.exe
+C:\Users\artem\source\repos\HomeWork2\Recursive\obj\Debug\Recursive.pdb

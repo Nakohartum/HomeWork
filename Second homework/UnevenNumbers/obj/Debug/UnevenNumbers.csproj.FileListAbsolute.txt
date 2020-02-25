@@ -1,0 +1,5 @@
+C:\Users\artem\source\repos\HomeWork2\UnevenNumbers\bin\Debug\UnevenNumbers.exe.config
+C:\Users\artem\source\repos\HomeWork2\UnevenNumbers\bin\Debug\UnevenNumbers.exe
+C:\Users\artem\source\repos\HomeWork2\UnevenNumbers\bin\Debug\UnevenNumbers.pdb
+C:\Users\artem\source\repos\HomeWork2\UnevenNumbers\obj\Debug\UnevenNumbers.exe
+C:\Users\artem\source\repos\HomeWork2\UnevenNumbers\obj\Debug\UnevenNumbers.pdb

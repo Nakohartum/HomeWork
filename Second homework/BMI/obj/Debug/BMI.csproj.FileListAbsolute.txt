@@ -1,0 +1,5 @@
+C:\Users\artem\source\repos\HomeWork2\BMI\bin\Debug\BMI.exe.config
+C:\Users\artem\source\repos\HomeWork2\BMI\bin\Debug\BMI.exe
+C:\Users\artem\source\repos\HomeWork2\BMI\bin\Debug\BMI.pdb
+C:\Users\artem\source\repos\HomeWork2\BMI\obj\Debug\BMI.exe
+C:\Users\artem\source\repos\HomeWork2\BMI\obj\Debug\BMI.pdb
